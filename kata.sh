@@ -18,6 +18,7 @@ do
 done
 echo "$m"
 
+
 mydir=/home/simon/Documents/likegeeks
 
 if [ -d $mydir ]
