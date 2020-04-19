@@ -4,5 +4,5 @@
 
 for items in perviji vtoroj tretij chetveryj piatyj
 do
-echo "$items element"
+echo "$items element" #test
 done
